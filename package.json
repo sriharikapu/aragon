@@ -51,12 +51,15 @@
     "web3-utils": "1.0.0-beta.33"
   },
   "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
     "babel-eslint": "^8.0.3",
     "babel-plugin-styled-components": "^1.5.1",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.23.0",
-    "babel-preset-stage-2": "^6.23.0",
+    "babel-preset-stage-2": "^6.24.1",
     "eslint": "4.15.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-standard": "^10.2.1",
@@ -69,7 +72,7 @@
     "eslint-plugin-standard": "^3.0.1",
     "find-pkg": "^1.0.0",
     "husky": "^1.0.0-rc.13",
-    "parcel-bundler": "^1.9.7",
+    "parcel-bundler": "^1.10.1",
     "prettier": "^1.11.1",
     "webpack-bundle-analyzer": "^2.11.1"
   },
